@@ -1,0 +1,17 @@
+nav {
+    height: 5rem;
+    color: #003333;
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+#toggle-btn {
+    background-color: white;
+}
+
+#toggle-btn:checked {
+    background-color: #343a40;
+}
